@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/airoot/CNN_Melanona/Experiment11/MelanomaBenVsMal-0.01-MelanomaCNN_Experiment_00.model"
+all_model_checkpoint_paths: "/home/airoot/CNN_Melanona/Experiment11/MelanomaBenVsMal-0.01-MelanomaCNN_Experiment_00.model"
